@@ -1,0 +1,37 @@
+{
+    "cmd1": "scarlet",
+    "cmd2": "scarlet who created you",
+    "cmd3": "scarlet why did I make you",
+    "cmd3.1": "scarlet Why Kaizer Baynosa created you",
+    "cmd4": "scarlet introduce yourself",
+    "cmd5": "scarlet do google search",
+    "cmd6": "scarlet what time is it",
+    "cmd7": "scarlet who is kaizer baynosa",
+    "cmd8": "scarlet do wikipedia search",
+    "cmd9": "scarlet play music",
+    "cmd10": "scarlet ",
+    "cmd11": "scarlet how old are you",
+    "cmd12": "scarlet check weather report.",
+    "cmd0": "scarlet deactivated",
+
+    
+    "query1": [
+        "Hi Master I'm, Scarlett. How can I help you",
+        "Hello, I'm Scarlett. how can i help you",
+        "What do you want Ask me a question."
+        
+    ],
+
+    "query2": "Kaizer baynosa made me",
+    "query3": "My Master Kaizer created me for his research project.",
+    "query4": "I'm Scarlett, an artificial intelligence written in the Python programming language. I used to write in Java, but the author found that Java was bloated in their system, so they converted me to Python to make it lighter.",
+    "query5": "I don't know what you're talking about, so please teach me.",
+    "query6": "The answer takes too long. Please check the connection. error expired.",
+    "query7": "I am 10 years old",
+    "query8": "Kaizer Baynosa is an IT student with a great passion for technology.",
+    "query9": "What do you want to search for",
+    "query10": "The time now is ",
+    "query0": "Goodbye, I'm going to sleep."
+
+    
+}
