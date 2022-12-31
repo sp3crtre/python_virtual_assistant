@@ -70,9 +70,9 @@ while True:
 
         elif words == data['cmd9']:
             #spotify api
-            username = '31o4qxbgg2n55ol4qrq3wesor7hu'
-            clientID = 'c59a699f709442c1a679dc08e739713c'
-            clientSecret = 'b4b4bbffe63f466eb1e6fbd12ad415bb'
+            username = ''
+            clientID = ''
+            clientSecret = ''
             redirect_uri = 'http://google.com/callback/'
 
             oauth_object = spotipy.SpotifyOAuth(clientID, clientSecret, redirect_uri)
