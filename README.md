@@ -30,12 +30,14 @@ pip install -r requirements.txt
 <h1>Usage:</h1>
 
 <h4>Linux</h4>
-```python
+
+```
 python3 main_scarlet.py 
 ```
 
 <h4>Window</h4>
-```python
+
+```
 py main_scarlet.py
 ```
 
