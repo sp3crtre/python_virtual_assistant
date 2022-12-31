@@ -25,14 +25,18 @@ Finally, the script enters a loop that listens for and processes user input inde
 
 ```
 pip install -r requirements.txt
-
 ```
-
-
 
 <h1>Usage:</h1>
 
+#LINUX
+```python
+python3 main_scarlet.py 
+```
 
-
+#WINDOW
+```python
+py main_scarlet.py
+```
 
 
