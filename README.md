@@ -20,7 +20,19 @@ Finally, the script enters a loop that listens for and processes user input inde
 </ul>
 
 
+<h1>Requirements:</h1>
+<p>The first step is to install some Python dependencies using pip install</p>
+
+```
+pip install -r requirements.txt
+
+```
+
+
+
 <h1>Usage:</h1>
-<p>The first step is to install some Python dependencies</p>
-<p></p>
+
+
+
+
 
