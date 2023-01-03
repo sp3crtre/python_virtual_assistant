@@ -1,5 +1,5 @@
-pip install SpeechRecognation
-pip install pyttsx3
-pip install openai
-pip install wikipedia
-pip install spotipy
+SpeechRecognation
+pyttsx3
+openai
+wikipedia
+spotipy
